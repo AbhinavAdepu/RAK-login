@@ -26,7 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "Simple login template created with React Native.",
-    "githubUrl": "https://github.com/venits/react-native-login-template"
+    "description": "Simple RAK LOGIN template created with React Native.",
+    "githubUrl": "https://github.com/AbhinavAdepu/RAK-login"
   }
 }
